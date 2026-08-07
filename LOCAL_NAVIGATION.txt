@@ -1,0 +1,3 @@
+This website uses local HTML, CSS, JavaScript, image, font and video files.
+Open index.html to start. All main navigation links point to files in this folder.
+Admin login: login.html; dashboard file: dmindashboard.html.
